@@ -21,6 +21,8 @@
 
 #include <User_Setup.h>           // Default setup is root library folder
 
+#include <User_Setups/TTGO_T_Display.h>
+
 //#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>   // Setup file configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>  // Setup file configured for my ILI9163
