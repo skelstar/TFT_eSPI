@@ -21,7 +21,7 @@
 
 // #include <User_Setup.h>           // Default setup is root library folder
 
-#include <User_Setups/TTGO_T_Display.h>
+//#include <User_Setups/TTGO_T_Display.h>
 //#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>   // Setup file configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>  // Setup file configured for my ILI9163
@@ -34,7 +34,7 @@
 //#include <User_Setups/Setup10_RPi_touch_ILI9486.h> // Setup file configured for ESP8266 and RPi TFT with touch
 
 //#include <User_Setups/Setup11_RPi_touch_ILI9486.h> // Setup file configured for ESP32 and RPi TFT with touch
-//#include <User_Setups/Setup12_M5Stack.h>           // Setup file for the ESP32 based M5Stack
+#include <User_Setups/Setup12_M5Stack.h>           // Setup file for the ESP32 based M5Stack
 //#include <User_Setups/Setup13_ILI9481_Parallel.h>  // Setup file for the ESP32 with parallel bus TFT
 //#include <User_Setups/Setup14_ILI9341_Parallel.h>  // Setup file for the ESP32 with parallel bus TFT
 //#include <User_Setups/Setup15_HX8357D.h>           // Setup file configured for HX8357D (untested)
